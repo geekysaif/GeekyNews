@@ -14,7 +14,7 @@ This is a demo News App built using modern Android development best practices. T
 ## Tech Stack
 - **Jetpack Compose** - UI framework for building native interfaces
 - **Retrofit** - HTTP client for network calls
-- **Room Database** - Local storage for saving favorite news articles
+- **Room Database** - Local storage for saving news articles
 - **Hilt** - Dependency Injection for managing dependencies
 - **MVVM** - Architecture pattern for separation of concerns
 - **Kotlin Coroutines & Flow** - For handling asynchronous tasks
@@ -37,5 +37,5 @@ This project requires an API key from a news provider. To configure:
 This project is open-source and available under the MIT License.
 
 ## Contact
-For any issues or feature requests, please open an issue on GitHub or reach out via email: your.email@example.com
+For any issues or feature requests, please open an issue on GitHub or reach out via email: geekysaif@gmail.com
 
