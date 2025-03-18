@@ -76,6 +76,22 @@ GeekyNews is a modern Android application built with Jetpack Compose and MVVM ar
 ![Home Screen](screenshots/home_screen.png)
 ![Article Screen](screenshots/article_screen.png)
 
+## Screenshots 📸
+
+### News List Screen, News Detail Screens
+
+<table>
+  <tr>
+    <td><img src="screenshots/home_screen.png" width="250"></td>
+    <td><img src="screenshots/article_screen.png" width="250"></td>
+  </tr>
+  <tr>
+    <td align="center"><b> News List Screen</b></td>
+    <td align="center"><b>News Detail Screen</b></td>
+  </tr>
+</table>
+
+
 
 ---
 👨‍💻 Developed by [Mohd Saif Alam]
